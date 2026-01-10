@@ -39,7 +39,9 @@ pages/
 Individual tests:
 
 python -m pytest tests/test_1_locked
+
 python -m pytest tests/test_2_standard
+
 python -m pytest tests/test_3_performance
 
 Sequential tests:
