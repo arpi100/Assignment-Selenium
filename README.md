@@ -44,9 +44,11 @@ python -m pytest tests/test_2_standard
 
 python -m pytest tests/test_3_performance
 
+
 Sequential tests:
 
 python -m pytest
+
 
 Sequential tests with allure report:
 
