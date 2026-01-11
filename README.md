@@ -25,16 +25,16 @@ pip install webdriver-manager
 
 tests/
 
-   test_1_locked.py           # Q1: locked_out_user test
-   test_2_standard.py         # Q2: standard_user test
-   test_3_performance.py      # Q3: performance_glitch_user test
+   -test_1_locked.py           # Q1: locked_out_user test
+   -test_2_standard.py         # Q2: standard_user test
+   -test_3_performance.py      # Q3: performance_glitch_user test
   
 pages/
 
-  login.py
-  inventory.py
-  cart.py
-  checkout.py
+  -login.py
+  -inventory.py
+  -cart.py
+  -checkout.py
 
 ## Test:
 
